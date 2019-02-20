@@ -1,2 +1,0 @@
-# exxis-colombia
-Landing Page
